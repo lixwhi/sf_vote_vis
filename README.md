@@ -1,6 +1,6 @@
 # sf_vote_vis
-Makes frames for an animation to visualize voting on Maker stability fee changes
-parser and spell fetching all from:
+Makes frames for an animation to visualize voting on Maker stability fee changes. 
+Parser and spell fetching all from:
 https://github.com/jernejml/mkr_voting
 Thank you!
 
