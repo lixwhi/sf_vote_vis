@@ -1,0 +1,4 @@
+ffmpeg -framerate 60 -i 'vote_frame%05d.png' -c:v libx264 out.mp4
+
+this one seems to work better
+ffmpeg -r 24 -i 'vote_frame%05d.png' -c:v libx264 -r 24 out.mp4
